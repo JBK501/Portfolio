@@ -2,11 +2,9 @@
 
 # 박컴학원
 
-#Win32API 미니 프로젝트
+#Win32API Mini Project
 
+#MFC Mini Project
 
-#MFC 미니 프로젝트
-
-
-#MFC 프로젝트
+#MFC Final Project(NotePad)
 
