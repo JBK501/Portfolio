@@ -6,5 +6,4 @@
 
 #MFC Mini Project
 
-#MFC Final Project(NotePad)
 
