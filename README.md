@@ -19,7 +19,7 @@
 
 로컬 데이터 베이스를 사용한 데이터 처리(MySQL ODBC)
 
-##자체 제작 자료형
+## 자체 제작 자료형
 * [날짜 자료형](https://github.com/JBK501/Projects/tree/main/C%2B%2B_Projects/Date)
 
 ## Code example
