@@ -25,6 +25,7 @@
 ## 개인 공부
 * [DirectX](https://github.com/JBK501/DirectX_Study)
 * [유니티](https://github.com/JBK501/UnityStudy)
+* [알고리즘](https://github.com/JBK501/Algorithm)
 
 ## Code example
 ```c++
