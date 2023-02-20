@@ -27,7 +27,3 @@
 * [유니티](https://github.com/JBK501/UnityStudy)
 * [알고리즘](https://github.com/JBK501/Algorithm)
 
-## Code example
-```c++
-Cout<<"Hello World!"<<endl
-```
