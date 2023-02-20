@@ -23,7 +23,7 @@
 * [날짜 자료형](https://github.com/JBK501/Projects/tree/main/C%2B%2B_Projects/Date)
 
 ## 개인 공부
-* [DirectX](https://github.com/JBK501/Projects/tree/main/C%2B%2B_Projects/Date) 링크 바꿀 것
+* [DirectX](https://github.com/JBK501/DirectX_Study)
 * [유니티](https://github.com/JBK501/UnityStudy)
 
 ## Code example
