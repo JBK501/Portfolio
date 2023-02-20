@@ -22,7 +22,7 @@
 ## 자체 제작 자료형
 * [날짜 자료형](https://github.com/JBK501/Projects/tree/main/C%2B%2B_Projects/Date)
 
-## 개인 공부
+## 스터디
 * [DirectX](https://github.com/JBK501/DirectX_Study)
 * [유니티](https://github.com/JBK501/UnityStudy)
 * [알고리즘](https://github.com/JBK501/Algorithm)
