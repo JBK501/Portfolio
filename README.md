@@ -8,7 +8,7 @@
 
 * [주소록](https://github.com/JBK501/Projects/tree/main/C_Projects/AddressBook) - C 배열라이브러리 적용
 * [명함철](https://github.com/JBK501/Projects/tree/main/C_Projects/BusinessCardBinder) - C 연결리스트 라이브러리 적용
-* [단어장](https://github.com/JBK501/Projects/tree/main/C_Projects/WordCardBinder) - C 연결리스트, C 이진탐색트리 라이브러리 적용
+* [단어장](https://github.com/JBK501/Projects/tree/main/C_Projects/WordCardBinder) - C 배열라이브러리, C 연결리스트, C 이진탐색트리 라이브러리 적용
 
 -디스크 파일을 사용한 데이터 처리
 
