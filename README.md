@@ -24,7 +24,7 @@
 
 ## 유니티 프로젝트
 * [공굴리기](https://github.com/JBK501/BallRun)
-* [2D 플랫포머 게임]()
+* [2D 플랫포머 게임](https://github.com/JBK501/Unity_Platformer_2D)
 
 ## 스터디
 * [DirectX](https://github.com/JBK501/DirectX_Study)
