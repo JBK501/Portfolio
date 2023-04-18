@@ -10,14 +10,12 @@
 * [명함철](https://github.com/JBK501/Projects/tree/main/C_Projects/BusinessCardBinder) - C 연결리스트 라이브러리 적용
 * [단어장](https://github.com/JBK501/Projects/tree/main/C_Projects/WordCardBinder) - C 배열라이브러리, C 연결리스트, C 이진탐색트리 라이브러리 적용
 
--디스크 파일을 사용한 데이터 처리
 
 ## C++언어를 사용한 MFC 프로젝트
 
 * [주소록](https://github.com/JBK501/Projects/tree/main/C%2B%2B_Projects/AddressBook) - C++ 배열라이브러리 적용
 * [단어장](https://github.com/JBK501/Projects/tree/main/C%2B%2B_Projects/WordBook) - C++ 배열라이브러리 적용
 
--로컬 데이터 베이스를 사용한 데이터 처리(MySQL ODBC)
 
 ## 자체 제작 자료형
 * [날짜 자료형](https://github.com/JBK501/Projects/tree/main/C%2B%2B_Projects/Date)
