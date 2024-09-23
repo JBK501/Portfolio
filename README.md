@@ -1,4 +1,4 @@
-# 포트폴리오
+# C계열 포트폴리오
 
 ## 자체 제작 라이브러리
 * [C 라이브러리](https://github.com/JBK501/Projects/tree/main/C_Projects/Library)
